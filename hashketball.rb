@@ -1,5 +1,5 @@
 # Write your code below game_hash
-require 'pry'
+#require 'pry'
 def game_hash
   {
     home: {
@@ -125,7 +125,7 @@ def game_hash
       ]
     }
   }
-  binding.pry
+  
 end
 
 # Write code here
